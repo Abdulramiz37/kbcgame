@@ -1,50 +1,45 @@
 [
+    
     {
-        "q":"Which one is the Smallest Ocean in the World?",
-       "optionA":"Indian",
-        "optionB":"Pacific",
-        "optionC":"Atlantic",
-        "optionD":"Artic",
-        "Ans":"Artic"
+        "q":"What is the full name of Shinchan ?",
+       "optionA":"A. Shinnosuke Ogawa",
+        "optionB":"B. Shin Chan Nohara",
+        "optionC":"C. Suzuki Nohara",
+        "optionD":"D. Shinnosuke Nohara",        
+        "Ans":"B. Shin Chan Nohara"
     },
     {
-        "q":"Which one is the Smallest Ocean in the udshuj?",
-       "optionA":"Indian",
-        "optionB":"Pacific",
-        "optionC":"Atlantic",
-        "optionD":"Artic",
-        "Ans":"Artic"
+        "q":"What is the vegetable that Shinchan hates to eat ?",
+       "optionA":"A. Beans",
+        "optionB":"B. Capsicum",
+        "optionC":"C. CARROT",
+        "optionD":"D. GARLIC",
+        "Ans":"D. GARLIC"
     },
     {
-        "q":"Which one is the Smallest Ocean in the World?",
-       "optionA":"Indian",
-        "optionB":"Pacific",
-        "optionC":"Atlantic",
-        "optionD":"Artic",
-        "Ans":"Artic"
+        "q":"In 'Doraemon' who is Jian's best friend",
+       "optionA":"A. SUNIO",
+        "optionB":"B.SHIZUKA",
+        "optionC":"C. NOBITA",
+        "optionD":"D. DEKISUGI",
+        "Ans":"A. SUNIO"
     },
+ 
     {
-        "q":"Which one is the Smallest Ocean in the World?",
-       "optionA":"Indian",
-        "optionB":"Pacific",
-        "optionC":"Atlantic",
-        "optionD":"Artic",
-        "Ans":"Artic"
+        "q":"What are John Abraham and Akshay Kumar's professions in Garam Masala?",
+       "optionA":"A. Reporter",
+        "optionB":"B. Photographers",
+        "optionC":"C. Professors",
+        "optionD":"D. Lawyers",
+        "Ans":"B. Photographers"
     },
+
     {
-        "q":"Which one is the Smallest Ocean in the World?",
-       "optionA":"Indian",
-        "optionB":"Pacific",
-        "optionC":"Atlantic",
-        "optionD":"Artic",
-        "Ans":"Artic"
-    },
-    {
-        "q":"Which one is the Smallest Ocean in the World?",
-       "optionA":"Indian",
-        "optionB":"Pacific",
-        "optionC":"Atlantic",
-        "optionD":"Artic",
-        "Ans":"Artic"
+        "q":"Who is the director of 'Bahubali'",
+       "optionA":"A. S.S Rajamouli",
+        "optionB":"B. Sanjay Leele Bhansali",
+        "optionC":"C. Anurag Kashyap",
+        "optionD":"D. S.Shankar",
+        "Ans":"A. S.S Rajamouli"
     }
 ]
