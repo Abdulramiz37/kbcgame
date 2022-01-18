@@ -1,4 +1,6 @@
 
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,41 +11,81 @@
     <link rel="stylesheet" href="style.css">
 
 
+<style>
+  *{
+   
+    background-image: url(https://play-lh.googleusercontent.com/Nsaf140XZQNQ3pbONEka_sqgefJgFI6SXW1HGpmn9fK5yYVyhdKbqQS4g89goEb_o54);
+  }
 
-     /* #body1{
+     #body1{
          background-repeat:no-repeat;
-         background-image: url(https://kbcliv.in/wp-content/uploads/2020/11/Asrani-KBC.jpg);
+        
          display: flex;
          justify-content: center;
          align-items: center;
-         height: 100vh;
+         height: 70vh;
             background-attachment: fixed ;
             
            background-repeat: no-repeat;
             background-position: top center;
+            
          
 
-     } */
+     }
+     
+        button{
+          background: #E4E4E4;
+    line-height: 50px;
+    border-radius: 5px;
+    padding: 0 56px;
+    font-size: 2em;
+    color: #555555;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+   
+    
+        }
+        .question{
 
+          
+            color: white;
+            font-size: 23px;
+            text-align: center;
+        
+
+        }
+        .inner-circle{
+          text-align: center;
+        }
+        .button:hover{
+          background-color: chartreuse;
+        }
+</style>
     
 </head>
 <body>
     
-    
-    <h1 >K B C</h1>
+    <div id="body1">
+    <h1 style="text-align: center;" >K B C</h1>
     <div class="container">
-        <h1 id="timeh">
+        <h1 id="timeh" class="inner-circle">
 
         </h1>
         <p class="question" id="question"></p>
        <div class="button">
+
         <button  id="optionA"></button>
-        <button id="optionB"></button><br>
+        <button id="optionB"></button>
         <button id="optionC"></button>
         <button id="optionD"></button>
        </div>
     </div>
     <h2 id="result-h2"></h2>
+
+  </div>
 
     
   
