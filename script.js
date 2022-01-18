@@ -40,7 +40,7 @@ function getquestion(data,i){
   if(time<0){
        clearInterval(interval);
        container.style.display="none";
-       resulth2.innerText="Bye! Bye!  Your prize Amount is INR "+prize;
+       resulth2.innerText="good bye  Your prize Amount is INR "+prize;
       
       }
   else{
